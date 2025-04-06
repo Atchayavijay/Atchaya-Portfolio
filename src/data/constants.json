@@ -1,0 +1,49 @@
+
+{
+    "skills": [
+      {
+        "title": "Frontend",
+        "skills": [
+          { "name": "HTML5", "image": "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" },
+          { "name": "CSS3", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" },
+          { "name": "JavaScript", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" },
+          { "name": "React", "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K" },
+          { "name": "Tailwind CSS", "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"}
+
+        ]
+      },
+      {
+        "title": "Backend",
+        "skills": [
+          { "name": "Node.js", "image": "https://www.pngitem.com/pimgs/m/520-5202823_nodejs-node-js-logo-png-transparent-png.png" },
+          { "name": "Express", "image" : "https://tse1.mm.bing.net/th?id=OIP.1ji9NLQl3sOXktSoEYnt3wHaHa&pid=Api&P=0&h=100" }
+        ]
+      },
+      {
+        "title": "Database",
+        "skills": [
+          { "name": "MongoDB", "image": "https://technologypoint.in/wp-content/uploads/2021/06/MongoDB-sm-logo.gif"},
+          { "name": "MySQL", "image" : "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" }
+        ]
+      },
+      {
+        "title": "Tools",
+        "skills": [
+          { "name": "GitHub",  "image" : "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" },
+          { "name": "Netlify",     "image" : "https://images.saasworthy.com/netlify_6502_logo_1583418670_gqrd3.png" },
+          { "name": "Render", "image" : "https://tse1.mm.bing.net/th?id=OIP.X7ZhhhnYwFK9HLdgjrL6SQAAAA&pid=Api&P=0&h=100"},
+          { "name": "VS Code", "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"
+                },
+                {
+                    "name" : "Canva",
+                    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7WL31BgP94lXiVCt-m6cReSz8AqGnKVy4hCWa-kh_qEEFDB6byi_OfMP&s=10"
+                },
+                {
+                    "name" : "Postman API",
+                    "image" : "https://tse3.mm.bing.net/th?id=OIP.Txf8ugHH_MlHPM8JU6hT5wHaEh&pid=Api&P=0&h=100"
+                }
+        ]
+      }
+    ]
+  }
+  
