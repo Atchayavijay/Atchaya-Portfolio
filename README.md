@@ -1,9 +1,59 @@
-# React + Vite
+# 💼 Atchaya Vijayakumar's Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal developer portfolio website to showcase my skills, projects, experience, and contact details. Built using the MERN stack and modern UI tools, it serves as an interactive and responsive portfolio.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# My-porfolio" 
+🌐 [View Portfolio Live](https://atchaya-portfolio-07.netlify.app/)
+
+
+## 📬 Contact
+
+Feel free to reach out:
+
+- 📧 **Email**: [atchuvijay83@gmail.com](mailto:atchuvijay83@gmail.com)
+- 🌐 **LinkedIn**: [linkedin.com/in/atchaya-vijayakumar](https://www.linkedin.com/in/atchaya-vijayakumar)
+- 💻 **GitHub**: [github.com/Atchayavijay](https://github.com/Atchayavijay)
+
+
+
+
+
+## 🛠️ Built With
+
+- **React.js** – Frontend library
+- **Tailwind CSS** – Utility-first CSS framework
+- **Framer Motion** – Animations and transitions
+- **Styled-Components** – Styled React components
+- **AOS (Animate On Scroll)** – Scroll animations
+- **React Scroll** – Smooth navigation
+- **Netlify** – Deployment
+
+## 📁 Folder Structure
+
+
+## 🖥️ Features
+
+- Responsive design for all devices
+- Animated sections using Framer Motion and AOS
+- Interactive skill cards and project previews
+- Contact form integration using Web3Forms
+- Resume download link
+- Smooth scrolling navigation
+
+## 📦 Installation
+
+To run this portfolio locally:
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/Atchayavijay/portfolio.git
+
+cd portfolio
+npm install
+npm run dev
+
+Locally Run  - http://localhost:5173
+
+
