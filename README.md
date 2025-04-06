@@ -48,7 +48,7 @@ To run this portfolio locally:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Atchayavijay/portfolio.git
+git clone https://github.com/Atchayavijay/Atchaya-Portfolio.git
 
 cd portfolio
 npm install
