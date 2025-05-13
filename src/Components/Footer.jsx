@@ -71,7 +71,7 @@ const Footer = () => {
   href="tel:+918870046795"
   className="flex items-center gap-2 text-sm text-gray-400 hover:text-teal-400 transition"
 >
-  <FaPhoneAlt className="text-teal-400" /> +91 88700 46795
+  
 </a>
 
             <a
@@ -110,14 +110,14 @@ const Footer = () => {
               >
                 <FaLinkedin />
               </a>
-              <a
+              {/* <a
                 href="https://instagram.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-pink-400 transition"
               >
                 <FaInstagram />
-              </a>
+              </a> */}
             </div>
           </div>
         </div>

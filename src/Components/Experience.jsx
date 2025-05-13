@@ -14,16 +14,7 @@ const experiences = [
       "Awarded White Tag Championship for outstanding problem-solving skills.",
     ],
   },
-  {
-    role: "MERN Stack Developer (Project-Based)",
-    company: "Guvi, IITM Research Park",
-    duration: "2024 - 2025",
-    points: [
-      "Developed full-stack projects using MongoDB, Express, React, and Node.",
-      "Implemented authentication, CRUD operations, and RESTful APIs.",
-      "Built responsive UIs with Tailwind CSS and integrated third-party libraries.",
-    ],
-  },
+ 
 ];
 
 const Experience = () => {
