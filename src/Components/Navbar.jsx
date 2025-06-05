@@ -113,7 +113,7 @@ const Navbar = () => {
 
 
           <a
-  href="mailto:atchuvijay83@gmail.com"
+  href="mailto:atchayavijayakumar36@gmail.com"
   target="_blank"
   rel="noopener noreferrer"
   aria-label="Email"

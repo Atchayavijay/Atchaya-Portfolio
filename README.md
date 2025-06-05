@@ -11,7 +11,7 @@ This is a personal developer portfolio website to showcase my skills, projects, 
 
 Feel free to reach out:
 
-- 📧 **Email**: [atchuvijay83@gmail.com](mailto:atchuvijay83@gmail.com)
+- 📧 **Email**: [atchayavijayakumar36@gmail.com](mailto:atchayavijayakumar36@gmail.com)
 - 🌐 **LinkedIn**: [linkedin.com/in/atchaya-vijayakumar](https://www.linkedin.com/in/atchaya-vijayakumar)
 - 💻 **GitHub**: [github.com/Atchayavijay](https://github.com/Atchayavijay)
 

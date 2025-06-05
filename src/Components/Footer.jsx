@@ -75,10 +75,10 @@ const Footer = () => {
 </a>
 
             <a
-  href="mailto:atchuvijay83@gmail.com"
+  href="mailto:atchayavijayakumar36@gmail.com"
   className="flex items-center gap-2 text-sm text-gray-400 hover:text-teal-400 transition"
 >
-  <FaEnvelope className="text-teal-400" /> atchuvijay83@gmail.com
+  <FaEnvelope className="text-teal-400" /> atchayavijayakumar36@gmail.com
 </a>
 
 
