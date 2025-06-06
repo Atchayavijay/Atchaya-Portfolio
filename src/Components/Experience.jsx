@@ -5,13 +5,13 @@ import { motion } from "framer-motion";
 
 const experiences = [
   {
-    role: "Graduate Engineering Trainee",
-    company: "ZF Group, Chengalpattu",
-    duration: "Jan 2023 - Feb 2024",
+    role: "MERN Stack Developer",
+    company: "Aastrazen Technologies, Chennai",
+    duration: "Jun 2023 -  Present",
     points: [
-      "Assisted in optimizing production processes through quality checks and improvements.",
-      "Collaborated with cross-functional teams to enhance product quality.",
-      "Awarded White Tag Championship for outstanding problem-solving skills.",
+      "MERN stack developer with 2 years of experience at Aastrazen, delivering scalable and responsive web applications.",
+      "Contributed to full-stack development across multiple projects, focusing on performance, security, and clean UI/UX.",
+      "Skilled in React, Node.js, MongoDB, and Express, with hands-on experience in team collaboration and Agile practices.",
     ],
   },
  
