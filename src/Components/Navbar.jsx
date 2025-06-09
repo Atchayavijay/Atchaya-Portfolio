@@ -92,7 +92,7 @@ const Navbar = () => {
         {/* Social Icons */}
         <div className='flex items-center gap-4 text-white text-2xl'>
           <a
-            href="https://www.linkedin.com/in/atchaya-vijayakumar"
+            href="www.linkedin.com/in/atchaya-vijayakumar-05165a369"
             target="_blank"
             rel="noopener noreferrer"
             aria-label='LinkedIn'
