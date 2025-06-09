@@ -91,15 +91,15 @@ const Navbar = () => {
 
         {/* Social Icons */}
         <div className='flex items-center gap-4 text-white text-2xl'>
-          <a
-            href="www.linkedin.com/in/atchaya-vijayakumar-05165a369"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label='LinkedIn'
-            className='hover:text-blue-500 transition'
-          >
-            <FaLinkedinIn />
-          </a>
+         <a
+  href="https://www.linkedin.com/in/atchaya-vijayakumar-05165a369"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="hover:text-blue-400 transition"
+>
+  <FaLinkedin className="text-blue-500" />
+</a>
+
           <a
             href="https://github.com/Atchayavijay"
             target="_blank"
