@@ -113,15 +113,14 @@ const Footer = () => {
               >
                 <FaGithub />
               </a>
-            <a
-  href="https://www.linkedin.com/in/atchaya-vijayakumar-05165a369"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="hover:text-blue-400 transition"
->
-  <FaLinkedin className="text-blue-500" />
-</a>
-
+              <a
+                href="https://www.linkedin.com/in/atchaya-vijayakumar-05165a369"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-blue-400 transition"
+              >
+                <FaLinkedin />
+              </a>
               {/* <a
                 href="https://instagram.com/"
                 target="_blank"
