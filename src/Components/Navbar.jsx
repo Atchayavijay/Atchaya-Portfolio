@@ -112,15 +112,27 @@ const Navbar = () => {
 
 
 
-          <a
+{/* <a
   href="mailto:atchayavijayakumar36@gmail.com"
   target="_blank"
   rel="noopener noreferrer"
   aria-label="Email"
   className="hover:text-red-400 transition"
 >
-  <FaEnvelope />
+  <FaEnvelope title="Send Email" />
+</a> */}
+
+
+<a
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=atchayavijayakumar36@gmail.com"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="hover:text-red-400 transition"
+>
+  <FaEnvelope title="Open Gmail to Send Email" />
 </a>
+
+
 
         </div>
       </div>

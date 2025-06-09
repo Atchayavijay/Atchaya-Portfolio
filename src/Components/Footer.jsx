@@ -74,12 +74,23 @@ const Footer = () => {
   
 </a>
 
-            <a
+            {/* <a
   href="mailto:atchayavijayakumar36@gmail.com"
   className="flex items-center gap-2 text-sm text-gray-400 hover:text-teal-400 transition"
 >
   <FaEnvelope className="text-teal-400" /> atchayavijayakumar36@gmail.com
+</a> */}
+
+
+<a
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=atchayavijayakumar36@gmail.com"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="flex items-center gap-2 text-sm text-gray-400 hover:text-teal-400 transition"
+>
+  <FaEnvelope className="text-teal-400" /> atchayavijayakumar36@gmail.com
 </a>
+
 
 
             {/* Extra space between email and copyright */}
